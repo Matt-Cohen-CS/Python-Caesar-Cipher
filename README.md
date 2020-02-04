@@ -1,3 +1,3 @@
 # Python-Caesar-Cipher
 A program that can decrypt a message that has been encoded using a Caesar cipher. This is the first program I ever made and showed me the
-enjoyment/satisfaction of programming. The code may seem redumentary, but it has enabled me to learn and move on and create even cooler programs and applications. 
+enjoyment/satisfaction of programming. The code may seem redumentary, but it has enabled me to learn and move on and create even cooler programs and applications. Although, with hindsight I can see I have many "bad" programming practices like, to many loops, poor commenting, no OOP structure, poor modularity, and the code is not reusable. However, these critiques are just to show my awareness of the many mistakes of new programmers, and this code can be used to help me develop and improve my applications in the future. 
